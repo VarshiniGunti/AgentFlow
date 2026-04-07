@@ -8,5 +8,3 @@ agentflow.db
 node_modules/
 .vscode/
 tests/
-Dockerfile
-.dockerignore
