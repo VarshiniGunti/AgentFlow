@@ -1,0 +1,12 @@
+.git
+.gitignore
+__pycache__
+*.pyc
+venv/
+.env
+agentflow.db
+node_modules/
+.vscode/
+tests/
+Dockerfile
+.dockerignore
