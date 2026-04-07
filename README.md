@@ -1,9 +1,5 @@
 # 🧠 AgentFlow: Neural Orchestrator
 
-![AgentFlow Logo / Banner Header space]
-
-**An elite, multi-agent AI system designed to manage tasks, schedules, and information seamlessly.**
-
 ---
 
 ## 🎯 Problem Statement
@@ -15,7 +11,7 @@ AgentFlow goes beyond basic chatbot interfaces. It provides a true "Swarm Intell
 
 ---
 
-## ✨ Key Features (Elite Status)
+## ✨ Key Features
 
 1. **Neural Swarm Atlas**: A dynamic, process-centric SVG visualization that shows real-time "Data Packets" routing from the `Planner` to specialized sub-agents (`Task`, `Calendar`, `Notes`, `Research`).
 2. **Deep Memory Link Protocol**: The Orchestrator automatically "sweeps" the user's historical notes for relevant context on *every* request, creating a proactive, highly personalized AI experience.
