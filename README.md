@@ -1,6 +1,9 @@
 # AgentFlow
-
 AgentFlow is a multi-agent AI productivity assistant that coordinates specialized AI agents to manage tasks, schedules, and notes through automated workflows.
+
+It demonstrates how multiple agents can collaborate with tools and structured data to complete real-world productivity tasks.
+
+Built for the Gen AI Academy Hackathon.
 
 ## Live Demo
 
