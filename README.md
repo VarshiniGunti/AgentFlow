@@ -98,7 +98,21 @@ src/
   "plan_rationale": "Orchestrating a strategic event while synchronizing with deep memory context."
 }
 ```
+## Try It Yourself
 
+Run AgentFlow with these prompts to see multi-agent orchestration.
+
+### Full Multi-Agent Workflow
+Plan a hackathon strategy meeting tomorrow at 10 AM,
+create a task to finalize the demo slides,
+save a note that our main innovation is the Deep Memory protocol,
+and research recent trends in autonomous AI agents.
+
+### Deep Memory Retrieval
+What is our main innovation according to my saved notes?
+Also summarize the latest trends in autonomous AI agents.
+
+```
 ## Running Locally
 
 Clone the repository and install dependencies:
