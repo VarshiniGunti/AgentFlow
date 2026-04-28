@@ -149,6 +149,8 @@ python -m src.api.mcp_server
 - **Technical Choices & Feasibility (20%)**: Leverages the Model Context Protocol (MCP) standardization natively.
 - **Demo, UX & Presentation (20%)**: Implements an elite "Neural Swarm" Glassmorphism UI with real-time process monitoring.
 
-## Author
 
-**Varshini Gunti** – IIT Bhilai
+## Screenshots of MVP
+<img width="1333" height="864" alt="Screenshot 2026-04-08 132847" src="https://github.com/user-attachments/assets/cba4f47d-8e2a-4075-bb0b-4e03962a760e" /><img width="1147" height="827" alt="Screenshot 2026-04-08 133151" src="https://github.com/user-attachments/assets/a07e71d6-0c6c-4dc4-b1c2-46b4735251c8" />
+<img width="319" height="543" alt="Screenshot 2026-04-08 133206" src="https://github.com/user-attachments/assets/b3d44967-1a97-42df-bb29-cab2ad0dfc69" />
+<img width="1122" height="841" alt="Screenshot 2026-04-08 133013" src="https://github.com/user-attachments/assets/408c7cbf-03b1-4d02-99da-54a9d745d2b2" />
